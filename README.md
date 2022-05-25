@@ -1,8 +1,10 @@
-# most-appear-single-char-in-niconico-tag
+# niconico-n-plays-tag
 
 ## Result
 
-https://github.com/SnO2WMaN/most-appear-single-char-in-niconico-tag/blob/main/result.txt
+### n再生
+
+https://github.com/SnO2WMaN/niconico-n-play/blob/main/plays.txt
 
 ## Dev
 
