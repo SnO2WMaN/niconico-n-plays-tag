@@ -2,6 +2,11 @@
 packages = ["poetry"]
 
 [[commands]]
-name = "update_comment"
-help = "update comment.txt"
-command = "poetry run python ./generate.py | sort -rn > $PRJ_ROOT/comment.txt"
+name = "update_plays"
+help = "update plays.txt"
+command = "poetry run python ./plays.py | sort -rn > $PRJ_ROOT/plays.txt"
+
+[[commands]]
+name = "update_man_plays"
+help = "update man_plays.txt"
+command = "poetry run python ./man_plays.py | sort -rn > $PRJ_ROOT/man_plays.txt"
