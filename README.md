@@ -4,7 +4,11 @@
 
 ### n再生
 
-https://github.com/SnO2WMaN/niconico-n-play/blob/main/plays.txt
+https://github.com/SnO2WMaN/niconico-n-plays-tag/blob/main/plays.txt
+
+### n万再生
+
+https://github.com/SnO2WMaN/niconico-n-plays-tag/blob/main/man_plays.txt
 
 ## Dev
 
